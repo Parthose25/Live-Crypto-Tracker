@@ -1,0 +1,11 @@
+export { default as Header } from "./Header";
+export { default as Homepage } from "./Homepage";
+export { default as Coinpage } from "./Coinpage";
+export { default as Footer } from "./Footer";
+export { default as Banner } from "./Banner";
+export { default as Carousel } from "./Carousel";
+export { default as CoinsTable } from "./CoinsTable";
+export { default as CoinInfo } from "./CoinInfo";
+export { default as SelectButton } from "./SelectButton";
+export { default as News } from "./News";
+export { default as NotFound } from "./NotFound";
